@@ -1,0 +1,12 @@
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/bin/Debug/netcoreapp3.1/BranchesAndLoops.deps.json
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/bin/Debug/netcoreapp3.1/BranchesAndLoops.runtimeconfig.json
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/bin/Debug/netcoreapp3.1/BranchesAndLoops.runtimeconfig.dev.json
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/bin/Debug/netcoreapp3.1/BranchesAndLoops.dll
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/bin/Debug/netcoreapp3.1/BranchesAndLoops.pdb
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.csprojAssemblyReference.cache
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.AssemblyInfo.cs
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.dll
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.pdb
+/Users/markbrooks/projects/c#tutorials/branches-tutorial/obj/Debug/netcoreapp3.1/BranchesAndLoops.genruntimeconfig.cache
